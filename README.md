@@ -1,4 +1,7 @@
-# Three.js_Project
+# 설명
+Three.js를 이용하여 2개의 오브젝트를 불러와 align시키는 프로젝트입니다
+
+# Install
 
 1. Package install
   - npm install
