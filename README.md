@@ -2,7 +2,7 @@
 
 1. Package install
 
-npm install
+ - npm install
 
 2. Run dev server
 npm start
